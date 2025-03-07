@@ -31,4 +31,4 @@ if st.button("Convert"):
         st.error("Invalid currency selection!")
 
 # Footer
-st.caption("🔄 Exchange rates fetched from exchangerate-api.com")
+st.caption("🔄 Rates from vamsi.api")
